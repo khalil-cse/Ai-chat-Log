@@ -1,4 +1,3 @@
-# Ai-chat-Log
 # Project Description
 The AI Chat Log Summarizer is a Python-based project that processes text chat logs between a User and an AI. It extracts structured insights such as:
 
