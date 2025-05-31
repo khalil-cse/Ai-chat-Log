@@ -41,3 +41,8 @@ OR convert to script and run:
 python chat_summarizer.py
 
 Provide  chat.txt file when prompted or configure the path in code.
+# Sample Output
+Summary:
+- The conversation had 10 exchanges.
+- The user mainly discussed Python and machine learning.
+- Most common keywords: python, learning, ai, use, data
