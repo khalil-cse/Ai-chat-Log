@@ -22,3 +22,8 @@ AI: Certainly! Machine learning is a field of AI that allows systems to learn fr
 ✅ Extract top 5 keywords (excluding stopwords)
 ✅ Generate human-readable summary
 
+# 🛠 Requirements
+Python 3.7+
+nltk
+sklearn (for TF-IDF, optional)
+os, re, collections, etc.
