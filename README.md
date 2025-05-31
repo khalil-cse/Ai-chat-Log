@@ -12,20 +12,14 @@ This project demonstrates basic Natural Language Processing (NLP) techniques and
 
 📂 Input Format
 A plain .txt chat log structured like:
-
-vbnet
-Copy
-Edit
 User: Hello!  
 AI: Hi! How can I assist you today?  
 User: Can you explain what machine learning is?  
 AI: Certainly! Machine learning is a field of AI that allows systems to learn from data.  
-✅ Features
+
+# ✅ Features
 ✅ Chat log parsing (User vs. AI)
-
 ✅ Count total and per-speaker messages
-
 ✅ Extract top 5 keywords (excluding stopwords)
-
 ✅ Generate human-readable summary
 
