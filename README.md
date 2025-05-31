@@ -27,3 +27,7 @@ Python 3.7+
 nltk
 sklearn (for TF-IDF, optional)
 os, re, collections, etc.
+# ▶️ How to Run
+Clone the repository:
+git clone https://github.com/yourusername/ai-chat-log-summarizer.git
+cd ai-chat-log-summarizer
