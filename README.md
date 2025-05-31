@@ -40,4 +40,4 @@ OR convert to script and run:
 
 python chat_summarizer.py
 
-Provide your .txt file when prompted or configure the path in code.
+Provide  chat.txt file when prompted or configure the path in code.
