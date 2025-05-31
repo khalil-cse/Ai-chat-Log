@@ -31,3 +31,13 @@ os, re, collections, etc.
 Clone the repository:
 git clone https://github.com/yourusername/ai-chat-log-summarizer.git
 cd ai-chat-log-summarizer
+
+Run the Jupyter Notebook:
+
+jupyter notebook AI\ Chat\ Log\ Summarizer.ipynb
+
+OR convert to script and run:
+
+python chat_summarizer.py
+
+Provide your .txt file when prompted or configure the path in code.
